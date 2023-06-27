@@ -1,0 +1,28 @@
+<form [formGroup]="criptoForm" (ngSubmit) = "editCripto()">
+    <div>
+        <input placeholder="symbol" formControlName="symbol" type="text"/>
+        <p *ngIf="(submitted && criptoForm?.get('symbol')?.hasError('required'))">Este campo es requerido</p>
+        <p *ngIf="(submitted && criptoForm?.get('symbol')?.hasError('minlength'))">Este campo tiene que tener más de 2 caracteres</p>
+    </div>
+    <div>
+        <input placeholder="priority" formControlName="priority" type="text"/>
+        <p *ngIf="(submitted && criptoForm?.get('priority')?.hasError('required'))">Este campo es requerido</p>
+    </div>
+    <div>
+        <input placeholder="logo" formControlName="logo" type="text"/>
+        <p *ngIf="(submitted && criptoForm?.get('logo')?.hasError('required'))">Este campo es requerido</p>
+    </div>
+    <div>
+        <input placeholder="name" formControlName="name" type="text"/>
+        <p *ngIf="(submitted && criptoForm?.get('name')?.hasError('required'))">Este campo es requerido</p>
+    </div>
+    <button>Editar cripto</button>
+</form>
+
+<!-- <div class="cripto" *ngIf="crypto">
+    <h4>Simbolo: {{crypto?.symbol}}</h4>
+    <p>Prioridad: {{crypto?.priority}}</p>
+    <img src="{{crypto?.logo}}" alt="{{crypto?.name}}" />
+    <p>{{crypto?.name}}</p>
+</div> -->
+

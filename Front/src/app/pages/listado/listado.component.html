@@ -1,0 +1,7 @@
+<div class="listContainer">
+    <div *ngFor="let item of criptosList">
+        <img src='{{item.logo}}'  alt="{{item.name}}">
+        <h4>{{item.name}}</h4>
+        <p><a routerLink="/{{item.id}}">Ver más</a></p>
+   </div>
+</div>

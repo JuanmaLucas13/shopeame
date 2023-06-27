@@ -1,0 +1,18 @@
+nav {
+    background-color: lightgrey;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+a {
+    margin: 10px; 
+    padding: 10px;
+    border: solid 1px orange;
+    border-radius: 20px;
+    color: orange;
+    width: 75px;
+    height: 15px;
+    text-align: center;
+}

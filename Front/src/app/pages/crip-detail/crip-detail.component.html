@@ -1,0 +1,10 @@
+<div class="crypto" *ngIf="crypto" >
+    <h4>Nombre Mercado: {{crypto.symbol}}</h4>
+    <img src="{{crypto.logo}}" alt="{{crypto.name}}" />
+    <p>Nombre. {{crypto.name}}</p>
+    <p>Prioridad: {{crypto.priority}}</p>
+    <button (click)="editCryto()">Editar</button>
+    <button (click)="deleteCryto()">Eliminar</button>
+</div>
+
+

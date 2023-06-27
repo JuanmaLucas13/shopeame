@@ -1,0 +1,228 @@
+{
+  "criptomonedas": [
+    {
+      "symbol": "XMR",
+      "priority": 5,
+      "id": 2,
+      "logo": "https://coinmap.org/img/coins/XMR.svg",
+      "name": "Monero"
+    },
+    {
+      "symbol": "LTC",
+      "priority": 4,
+      "id": 3,
+      "logo": "https://coinmap.org/img/coins/LTC.svg",
+      "name": "Litecoin"
+    },
+    {
+      "symbol": "ETH",
+      "priority": "32",
+      "logo": "https://coinmap.org/img/coins/ETH.svg",
+      "name": "Ethereum",
+      "id": 4
+    },
+    {
+      "symbol": "ADA",
+      "priority": 2,
+      "id": 5,
+      "logo": "https://coinmap.org/img/coins/ADA.svg",
+      "name": "Cardano"
+    },
+    {
+      "symbol": "USDT",
+      "priority": 1,
+      "id": 6,
+      "logo": "https://coinmap.org/img/coins/USDT.svg",
+      "name": "Tether"
+    },
+    {
+      "symbol": "DASH",
+      "priority": 0,
+      "id": 8,
+      "logo": "https://coinmap.org/img/coins/DASH.svg",
+      "name": "DASH"
+    },
+    {
+      "symbol": "XLM",
+      "priority": 0,
+      "id": 9,
+      "logo": "https://coinmap.org/img/coins/XLM.svg",
+      "name": "Stellar"
+    },
+    {
+      "symbol": "BNB",
+      "priority": 0,
+      "id": 10,
+      "logo": "https://coinmap.org/img/coins/BNB.svg",
+      "name": "Binance Coin"
+    },
+    {
+      "symbol": "LINK",
+      "priority": 0,
+      "id": 11,
+      "logo": "https://coinmap.org/img/coins/LINK.svg",
+      "name": "Chainlink"
+    },
+    {
+      "symbol": "BAT",
+      "priority": 0,
+      "id": 12,
+      "logo": "https://coinmap.org/img/coins/BAT.svg",
+      "name": "Basic Attention Token"
+    },
+    {
+      "symbol": "AKRO",
+      "priority": 0,
+      "id": 13,
+      "logo": "https://coinmap.org/img/coins/AKRO.svg",
+      "name": "Akropolis"
+    },
+    {
+      "symbol": "ATOM",
+      "priority": 0,
+      "id": 14,
+      "logo": "https://coinmap.org/img/coins/ATOM.svg",
+      "name": "Cosmos"
+    },
+    {
+      "symbol": "DOT",
+      "priority": 0,
+      "id": 15,
+      "logo": "https://coinmap.org/img/coins/DOT.svg",
+      "name": "Polkadot"
+    },
+    {
+      "symbol": "MTL",
+      "priority": 0,
+      "id": 16,
+      "logo": "https://coinmap.org/img/coins/MTL.svg",
+      "name": "Metal"
+    },
+    {
+      "symbol": "FUN",
+      "priority": 0,
+      "id": 17,
+      "logo": "https://coinmap.org/img/coins/FUN.svg",
+      "name": "FunFair"
+    },
+    {
+      "symbol": "POLY",
+      "priority": 0,
+      "id": 18,
+      "logo": "https://coinmap.org/img/coins/POLY.svg",
+      "name": "Polymath"
+    },
+    {
+      "symbol": "COMP",
+      "priority": 0,
+      "id": 19,
+      "logo": "https://coinmap.org/img/coins/COMP.svg",
+      "name": "Compound"
+    },
+    {
+      "symbol": "LOOM",
+      "priority": 0,
+      "id": 20,
+      "logo": "https://coinmap.org/img/coins/LOOM.svg",
+      "name": "Loom Network"
+    },
+    {
+      "symbol": "DOGE",
+      "priority": 0,
+      "id": 7,
+      "logo": "https://coinmap.org/img/coins/DOGE.svg",
+      "name": "Dogecoin"
+    },
+    {
+      "symbol": "USDC",
+      "priority": 0,
+      "id": 22,
+      "logo": "https://coinmap.org/img/coins/USDC.svg",
+      "name": "USD Coin"
+    },
+    {
+      "symbol": "ZRX",
+      "priority": 0,
+      "id": 23,
+      "logo": "https://coinmap.org/img/coins/ZRX.svg",
+      "name": "0x"
+    },
+    {
+      "symbol": "UNI",
+      "priority": 0,
+      "id": 24,
+      "logo": "https://coinmap.org/img/coins/UNI.svg",
+      "name": "Uniswap"
+    },
+    {
+      "symbol": "PAX",
+      "priority": 0,
+      "id": 25,
+      "logo": "https://coinmap.org/img/coins/PAX.svg",
+      "name": "Paxos Standard"
+    },
+    {
+      "symbol": "TUSD",
+      "priority": 0,
+      "id": 26,
+      "logo": "https://coinmap.org/img/coins/TUSD.svg",
+      "name": "TrueUSD"
+    },
+    {
+      "symbol": "DAI",
+      "priority": 0,
+      "id": 27,
+      "logo": "https://coinmap.org/img/coins/DAI.svg",
+      "name": "Dai"
+    },
+    {
+      "symbol": "SNGLS",
+      "priority": 0,
+      "id": 28,
+      "logo": "https://coinmap.org/img/coins/SNGLS.svg",
+      "name": "SingularDTV"
+    },
+    {
+      "symbol": "ENJ",
+      "priority": 0,
+      "id": 29,
+      "logo": "https://coinmap.org/img/coins/ENJ.svg",
+      "name": "Enjin Coin"
+    },
+    {
+      "symbol": "TRX",
+      "priority": 0,
+      "id": 30,
+      "logo": "https://coinmap.org/img/coins/TRX.svg",
+      "name": "TRON"
+    },
+    {
+      "symbol": "YFI",
+      "priority": 0,
+      "id": 31,
+      "logo": "https://coinmap.org/img/coins/YFI.svg",
+      "name": "yearn.finance"
+    },
+    {
+      "symbol": "BUSD",
+      "priority": 0,
+      "id": 32,
+      "logo": "https://coinmap.org/img/coins/BUSD.svg",
+      "name": "Binance USD"
+    },
+    {
+      "symbol": "MANA",
+      "priority": 0,
+      "id": 21,
+      "logo": "https://coinmap.org/img/coins/MANA.svg",
+      "name": "Decentraland"
+    },
+    {
+      "symbol": "BCH",
+      "priority": -1,
+      "id": 33,
+      "logo": "https://coinmap.org/img/coins/BCH.svg",
+      "name": "Bitcoin Cash"
+    }
+  ]
+}
